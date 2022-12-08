@@ -2,6 +2,35 @@
 
 A curated list of papers on GNN-based social recommender systems. 
 
+Social recommender systems use user-user social links in addition to user-item interaction edges to make effective recommendation. 
+This is illustrated in the diagram shown below, as it forms a user-item bipartite graph along with a relational graph induced by the social network. 
+
+Over the past few years, Graph Neural Networks (GNNs) have emerged as the standard way to encode graphs. 
+In this work, we survey over 80 papers that use Graph Neural Network for the task of social recommendation. 
+We thus provide novel taxonomies to categorize these papers based on inputs, input representations, architectures (both encoders and decoders), and loss functions.  
+
+Here, we list these papers along with their venues and paper links. For more details, please refer to our full paper available on [arxiv](). 
+
+## Citation
+> @article{sharma2021task,\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title={A Survey of Graph Neural Networks for Social Recommender Systems},\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   author={Sharma, Kartik and Lee, Yeon-Chang and Nambi, Sivagami and Salian, Aditya and Shah, Shlok and Kim, Sang-Wook and Kumar, Srijan},\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   journal={arXiv preprint arXiv:},\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   year={2022} \
+ }
+
+<style>
+center{  
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+</style>
+
+<center> <img src="Sorecsys.jpeg" alt="Sorecsys" width="400" height="300" class="center"/> </center>
+&nbsp;
+
 ## Quick Links
 Papers sorted by year: <a href="#2022">2022</a> | <a href="#2021">2021</a> | <a href="#2020">2020</a> | <a href="#2019">2019</a>
 
@@ -17,12 +46,10 @@ Papers sorted by year: <a href="#2022">2022</a> | <a href="#2021">2021</a> | <a 
 |2022|SGHAN|IEEE Transactions on Services Computing|https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9852695|
 |2022|TAG|IEEE TKDE|https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9844848|
 |2022|SSRGNN|ICCS|https://link.springer.com/chapter/10.1007/978-3-031-08757-8_46|
-|2022|SGA|PDCAT|https://link.springer.com/chapter/10.1007/978-3-030-96772-7_34|
 |2022|Social-RippleNet|Applied Intelligence|https://link.springer.com/content/pdf/10.1007/s10489-022-03620-2.pdf|
 |2022|ME-LGN|DASFAA|https://link.springer.com/chapter/10.1007/978-3-031-00126-0_9|
 |2022|GNN-DSR|DASFAA|https://arxiv.org/pdf/2201.10751.pdf|
 |2022|GDSRec|IEEE TKDE|https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9721542|
-|2022|SPEX|ACM Transactions on Information Systems|https://dl.acm.org/doi/pdf/10.1145/3473338|
 |2022|SIGA|Applied Intelligence|https://link.springer.com/content/pdf/10.1007/s10489-022-03748-1.pdf|
 |2022|DcRec|CIKM|https://arxiv.org/pdf/2208.08723.pdf|
 |2022|FBNE|IEEE TKDE|https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9050415|
@@ -48,7 +75,6 @@ Papers sorted by year: <a href="#2022">2022</a> | <a href="#2021">2021</a> | <a 
 |2022|SoHRML|Knowledge and Information Systems|https://link.springer.com/content/pdf/10.1007/s10115-022-01680-x.pdf|
 |2022|DSR|IEEE Transactions on Computational Social Systems|https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9528836|
 |2022|DESIGN|WWW|https://dl.acm.org/doi/pdf/10.1145/3485447.3512003|
-|2022|HyperSoRec|ACM TOIS|http://staff.ustc.edu.cn/~qiliuql/files/Publications/Hao-Wang-TOIS21.pdf|
 |2022|SENGR|Information Sciences|https://www.sciencedirect.com/science/article/pii/S0020025521013414|
 |2022|HOSR|IEEE TKDE|https://arxiv.org/pdf/2003.10149.pdf|
 |2022|SSDRec|Applied Soft Computing|https://www.sciencedirect.com/science/article/pii/S1568494622000291|
@@ -79,6 +105,9 @@ Papers sorted by year: <a href="#2022">2022</a> | <a href="#2021">2021</a> | <a 
 |2021|GHSCF|Wireless Communications and Mobile Computing|https://www.hindawi.com/journals/wcmc/2021/9107718/|
 |2021|ASR|Neurocomputing|https://www.sciencedirect.com/science/article/pii/S0925231221004628?casa_token=hYAWJz7TuiUAAAAA:Rp_B7GNTUr1DpTbEMmkJD6KeDIEamc8DegIpeeumpqhfHCp9O_oeXh008uWP8rG8nL2SKiWP7g|
 |2021|ATGCN|IEEE Access|https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9499073|
+|2021|SGA|PDCAT|https://link.springer.com/chapter/10.1007/978-3-030-96772-7_34|
+|2021|SPEX|ACM Transactions on Information Systems|https://dl.acm.org/doi/pdf/10.1145/3473338|
+|2021|HyperSoRec|ACM TOIS|http://staff.ustc.edu.cn/~qiliuql/files/Publications/Hao-Wang-TOIS21.pdf|
 
 ## 2020
 [[Back to top](#quick-links)]
