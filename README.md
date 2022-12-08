@@ -19,17 +19,10 @@ Here, we list these papers along with their venues and paper links. For more det
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   year={2022} \
  }
 
-<style>
-center{  
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-</style>
 
-<center> <img src="Sorecsys.jpeg" alt="Sorecsys" width="400" height="300" class="center"/> </center>
+<img src="Sorecsys.jpeg" alt="Sorecsys" width="400" height="300"/>  <img src="Timeline2.png" alt="Timeline2" width="400" height="300"/>
 &nbsp;
+
 
 ## Quick Links
 Papers sorted by year: <a href="#2022">2022</a> | <a href="#2021">2021</a> | <a href="#2020">2020</a> | <a href="#2019">2019</a>
