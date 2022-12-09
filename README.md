@@ -9,13 +9,13 @@ Over the past few years, Graph Neural Networks (GNNs) have emerged as the standa
 In this work, we survey over 80 papers that use Graph Neural Network for the task of social recommendation. 
 We thus provide novel taxonomies to categorize these papers based on inputs, input representations, architectures (both encoders and decoders), and loss functions.  
 
-Here, we list these papers along with their venues and paper links. For more details, please refer to our full paper available on [arxiv](). 
+Here, we list these papers along with their venues and paper links. For more details, please refer to our full paper available on [arxiv](https://arxiv.org/abs/2212.04481). 
 
 ## Citation
 > @article{sharma2021task,\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title={A Survey of Graph Neural Networks for Social Recommender Systems},\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   author={Sharma, Kartik and Lee, Yeon-Chang and Nambi, Sivagami and Salian, Aditya and Shah, Shlok and Kim, Sang-Wook and Kumar, Srijan},\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   journal={arXiv preprint arXiv:},\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   journal={arXiv preprint arXiv:2212.04481},\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   year={2022} \
  }
 
