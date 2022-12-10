@@ -6,10 +6,10 @@ Social recommender systems use user-user social links in addition to user-item i
 This is illustrated in the diagram shown below, as it forms a user-item bipartite graph along with a relational graph induced by the social network. 
 
 Over the past few years, Graph Neural Networks (GNNs) have emerged as the standard way to encode graphs. 
-In this survey, we have included over 80 papers that use Graph Neural Network for the task of social recommendation. 
-We thus provide novel taxonomies to categorize these papers based on inputs, input representations, architectures (both encoders and decoders), and loss functions.  
 
-Here, we list these papers along with their venues and paper links. For more details, please refer to our full paper available on [arxiv](https://arxiv.org/abs/2212.04481). 
+This repo, which accompanies our [survey on the topic](https://arxiv.org/abs/2212.04481), inludes over 80 papers that use Graph Neural Network for the task of social recommendation. 
+
+You may refer to the survey for novel taxonomies to categorize these papers based on inputs, input representations, architectures (both encoders and decoders), and loss functions.  
 
 ## Citation
 > @article{sharma2021task,\
