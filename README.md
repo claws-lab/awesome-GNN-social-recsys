@@ -13,7 +13,7 @@ You may refer to the survey for novel taxonomies to categorize these papers base
 
 ## Citation
 ```
-> @article{sharma2021task,
+@article{sharma2021task,
    title={A Survey of Graph Neural Networks for Social Recommender Systems},
    author={Sharma, Kartik and Lee, Yeon-Chang and Nambi, Sivagami and Salian, Aditya and Shah, Shlok and Kim, Sang-Wook and Kumar, Srijan},
    journal={arXiv preprint arXiv:2212.04481},
