@@ -12,12 +12,14 @@ This repo, which accompanies our [survey on the topic](https://arxiv.org/abs/221
 You may refer to the survey for novel taxonomies to categorize these papers based on inputs, input representations, architectures (both encoders and decoders), and loss functions.  
 
 ## Citation
-> @article{sharma2021task,\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title={A Survey of Graph Neural Networks for Social Recommender Systems},\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   author={Sharma, Kartik and Lee, Yeon-Chang and Nambi, Sivagami and Salian, Aditya and Shah, Shlok and Kim, Sang-Wook and Kumar, Srijan},\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   journal={arXiv preprint arXiv:2212.04481},\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   year={2022} \
+```
+> @article{sharma2021task,
+   title={A Survey of Graph Neural Networks for Social Recommender Systems},
+   author={Sharma, Kartik and Lee, Yeon-Chang and Nambi, Sivagami and Salian, Aditya and Shah, Shlok and Kim, Sang-Wook and Kumar, Srijan},
+   journal={arXiv preprint arXiv:2212.04481},
+   year={2022} 
  }
+ ```
 
 
 <img src="Sorecsys.jpeg" alt="Sorecsys" width="400" height="300"/>  <img src="Timeline2.png" alt="Timeline2" width="400" height="300"/>
