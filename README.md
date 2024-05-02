@@ -7,18 +7,23 @@ This is illustrated in the diagram shown below, as it forms a user-item bipartit
 
 Over the past few years, Graph Neural Networks (GNNs) have emerged as the standard way to encode graphs. 
 
-This repo, which accompanies our [survey on the topic](https://arxiv.org/abs/2212.04481), inludes over 80 papers that use Graph Neural Network for the task of social recommendation. 
+This repo, which accompanies our [survey on the topic](https://dl.acm.org/doi/10.1145/3661821), inludes over 80 papers that use Graph Neural Network for the task of social recommendation. 
 
 You may refer to the survey for novel taxonomies to categorize these papers based on inputs, input representations, architectures (both encoders and decoders), and loss functions.  
 
 ## Citation
 ```
-@article{sharma2021task,
-   title={A Survey of Graph Neural Networks for Social Recommender Systems},
-   author={Sharma, Kartik and Lee, Yeon-Chang and Nambi, Sivagami and Salian, Aditya and Shah, Shlok and Kim, Sang-Wook and Kumar, Srijan},
-   journal={arXiv preprint arXiv:2212.04481},
-   year={2022} 
- }
+@article{10.1145/3661821,
+  author = {Sharma, Kartik and Lee, Yeon-Chang and Nambi, Sivagami and Salian, Aditya and Shah, Shlok and Kim, Sang-Wook and Kumar, Srijan},
+  title = {A Survey of Graph Neural Networks for Social Recommender Systems},
+  year = {2024},
+  publisher = {Association for Computing Machinery},
+  issn = {0360-0300},
+  url = {https://doi.org/10.1145/3661821},
+  note = {Just Accepted},
+  journal = {ACM Comput. Surv.},
+  month = {apr},
+}
  ```
 
 
